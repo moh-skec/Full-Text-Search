@@ -1,0 +1,17 @@
+D:\full-text-search\inverted-index\bin\Debug\net8.0\inverted-index.exe
+D:\full-text-search\inverted-index\bin\Debug\net8.0\inverted-index.deps.json
+D:\full-text-search\inverted-index\bin\Debug\net8.0\inverted-index.runtimeconfig.json
+D:\full-text-search\inverted-index\bin\Debug\net8.0\inverted-index.dll
+D:\full-text-search\inverted-index\bin\Debug\net8.0\inverted-index.pdb
+D:\full-text-search\inverted-index\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.csproj.AssemblyReference.cache
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.GeneratedMSBuildEditorConfig.editorconfig
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.AssemblyInfoInputs.cache
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.AssemblyInfo.cs
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.csproj.CoreCompileInputs.cache
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted.C626F538.Up2Date
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.dll
+D:\full-text-search\inverted-index\obj\Debug\net8.0\refint\inverted-index.dll
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.pdb
+D:\full-text-search\inverted-index\obj\Debug\net8.0\inverted-index.genruntimeconfig.cache
+D:\full-text-search\inverted-index\obj\Debug\net8.0\ref\inverted-index.dll
